@@ -1,5 +1,5 @@
 # tripdesk-flights-mcp
-MCP bridge and configuration templates for TripDesk Flights.
+MCP bridge and configuration templates for TripDesk Flights (https://flights.tripdesk.app).
 
 ## What this repo contains
 - Bridge
