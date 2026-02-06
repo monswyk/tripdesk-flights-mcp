@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "tripdesk-flights": {
+      "command": "node",
+      "args": [
+        "C:\\\\Users\\\\your-user\\\\path\\\\to\\\\tripdesk-flights-mcp\\\\bridge\\\\tripdesk-bridge.js"
+      ],
+      "env": {
+        "TRIPDESK_TOKEN": "YOUR_TOKEN_HERE"
+      }
+    }
+  }
+}

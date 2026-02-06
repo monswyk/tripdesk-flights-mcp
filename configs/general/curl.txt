@@ -1,0 +1,4 @@
+curl -X POST "https://flights.tripdesk.app/api/mcp" \
+  -H "Content-Type: application/json" \
+  -H "x-mcp-token: YOUR_TOKEN_HERE" \
+  --data '{"jsonrpc":"2.0","id":1,"method":"tools/list","params":{}}'
