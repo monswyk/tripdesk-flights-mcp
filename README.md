@@ -60,3 +60,5 @@ The bridge is a plain Node script and does not require build steps.
 ## Docs
 - `docs/paths.md`: Common config paths by OS.
 - `docs/troubleshooting.md`: Typical issues and fixes.
+- `docs/howto.md`: cURL examples and tool calling pattern.
+- `docs/functions.md`: Short descriptions of all MCP tools.
