@@ -56,3 +56,7 @@ The token is sent as:
 
 ## Development
 The bridge is a plain Node script and does not require build steps.
+
+## Docs
+- `docs/paths.md`: Common config paths by OS.
+- `docs/troubleshooting.md`: Typical issues and fixes.
